@@ -3,7 +3,7 @@
 }
 .parent {
   background: rgb(156, 82, 226);
-  position: relative;
+  position: sticky;
 }
 
 .child-one {
@@ -19,4 +19,7 @@
 }
 .child-three {
   background: rgb(226, 82, 82);
+  position: fixed;
+  top: 0;
+  right: 0;
 }
