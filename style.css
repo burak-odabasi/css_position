@@ -3,13 +3,19 @@
 }
 .parent {
   background: rgb(156, 82, 226);
+  position: relative;
 }
 
 .child-one {
   background: rgb(36, 122, 40);
+  position: relative;
+  left: 10px;
+  top: 10px;
 }
 .child-two {
   background: rgb(160, 136, 28);
+  position: absolute;
+  top: 10px;
 }
 .child-three {
   background: rgb(226, 82, 82);
