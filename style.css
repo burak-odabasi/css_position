@@ -1,0 +1,16 @@
+* {
+  padding: 10px;
+}
+.parent {
+  background: rgb(156, 82, 226);
+}
+
+.child-one {
+  background: rgb(36, 122, 40);
+}
+.child-two {
+  background: rgb(160, 136, 28);
+}
+.child-three {
+  background: rgb(226, 82, 82);
+}
